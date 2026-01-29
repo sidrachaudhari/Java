@@ -1,3 +1,17 @@
+class Vehicle {
+    protected int speed;
+
+    public void accelerate() {
+        speed += 10;
+    }
+
+    public int getSpeed() {
+        return speed;
+    }
+}
+
+
+
 public class Car extends Vehicle {
 
     public static void main(String[] args) {
