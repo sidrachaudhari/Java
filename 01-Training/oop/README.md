@@ -46,7 +46,7 @@ That will not work.
 Proceed in this exact order:
 
 1. `01-classes-objects/`
-2. `02-encapsulation/`
+2. `02-Encapsulation/`
 3. `03-inheritance/`
 4. `04-polymorphism/`
 
