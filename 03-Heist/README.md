@@ -1,73 +1,51 @@
-# Phase 3: Heist – Controlled Intervention
-
-This is where things change.
+# Phase 3: Heist – Change Without Breaking
 
 You now understand the system.
-Your task is to **change it without breaking it**.
 
-This phase simulates real-world pressure:
-- Limited instructions
-- Strict constraints
-- No step-by-step guidance
+Your task is to **change its behavior**  
+without destroying its structure.
+
+This phase simulates real-world work:
+- Requirements change
+- Constraints exist
+- You are judged by impact, not effort
 
 ---
 
 ## 🎯 Objective
 
-You will be given:
-- A target system
-- A clear goal
-- A set of constraints
+The system must now:
 
-Your job is to:
-- Achieve the goal
-- Respect all constraints
-- Keep the system functional
+> Allow users **under 18** to be stored  
+> but **mark them as RESTRICTED**
 
-How you do it is up to you.
+The program must:
+- Still run correctly
+- Still print all users
+- Clearly indicate restricted users
 
 ---
 
-## 📂 What’s Inside This Phase
+## 🧠 The Catch
 
-- `target-system/`
-  - The system you will modify
+You are **not free** to change everything.
 
-- `constraints.md`
-  - Rules you must not violate
-  - These matter more than elegance
-
-Read **constraints first**.
-Always.
+Read the constraints carefully.
+They exist for a reason.
 
 ---
 
-## 🧠 How to Think During the Heist
+## 📂 Target System
 
-- Small changes > big rewrites
-- Understand impact before editing
-- If something breaks, trace *why*
+All required files are inside `target-system/`.
 
-There is no “perfect” solution.
-There are only **acceptable** and **unacceptable** ones.
+This is a **live system**.
+Treat it with care.
 
 ---
 
-## ⚠ Rules of Engagement
+## 🚪 First Action
 
-- Do not ignore constraints
-- Do not rewrite everything
-- Do not add unnecessary features
+👉 Open **`constraints.md`**
 
-Breaking rules is worse than an imperfect solution.
-
----
-
-## 🚪 Completion Criteria
-
-You are done when:
-- The goal is met
-- Constraints are respected
-- You can explain your decisions
-
-When instructed, proceed to **Phase 4: Final Challenge**.
+Do not code before reading it.
