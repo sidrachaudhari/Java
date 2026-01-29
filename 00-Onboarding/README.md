@@ -64,4 +64,3 @@ If you engage honestly, this repository will make you confident with Java.
 ## 🚪 Where to Go Next
 
 👉 Proceed to **Phase 1: Training**  
-(Link will be provided by your instructor)
