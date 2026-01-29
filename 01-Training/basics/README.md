@@ -14,7 +14,7 @@ But everything here is important.
 
 ## 🧪 Mission 1: Your First Program
 
-File: `HelloWorld.java`
+File: `hello.java`
 
 ### Objectives
 - Understand the role of `class`
@@ -22,7 +22,7 @@ File: `HelloWorld.java`
 - Understand `System.out.println`
 
 ### Instructions
-1. Open `HelloWorld.java`
+1. Open `hello.java`
 2. Read it line by line
 3. Identify:
    - Class name
@@ -42,7 +42,7 @@ Experiment carefully.
 
 ## 🧪 Mission 2: Output Control
 
-File: `OutputExperiment.java`
+File: `output.java`
 
 ### Objectives
 - Understand how Java prints output
@@ -77,5 +77,3 @@ That behavior is a feature, not a flaw.
 Proceed to the next training area when:
 - You understand every line you ran
 - You can explain *why* it works
-
-Your instructor will provide the next link.
