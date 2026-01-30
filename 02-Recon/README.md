@@ -28,7 +28,7 @@ You are **not expected to fix anything yet**.
 
 ## 📂 What’s Inside This Phase
 
-- `codebase-to-analyze/`
+- `codebase/`
   - A small Java codebase
   - Not perfect
   - Not well-written on purpose
